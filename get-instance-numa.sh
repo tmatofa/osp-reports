@@ -1,5 +1,8 @@
 #!/bin/bash
-# expects: TripleO based deployment of Train with containerised Nova
+# expects:
+# - TripleO based deployment of Train with containerised Nova
+# - SSH access to Overcloud nodes via ControlPlane network
+#
 # note: There is no support for this script.
 
 # variables
