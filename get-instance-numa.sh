@@ -1,5 +1,6 @@
 #!/bin/bash
-# expects TripleO based deployment of Train with containerised Nova
+# expects: TripleO based deployment of Train with containerised Nova
+# note: There is no support for this script.
 
 # variables
 thisoverclouduser='cloud-admin'
